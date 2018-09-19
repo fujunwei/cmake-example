@@ -1,0 +1,10 @@
+/workspace/junwei/cmake_example/sum/CMakeFiles/rebuild_cache.dir
+/workspace/junwei/cmake_example/sum/CMakeFiles/edit_cache.dir
+/workspace/junwei/cmake_example/sum/src/CMakeFiles/rebuild_cache.dir
+/workspace/junwei/cmake_example/sum/src/CMakeFiles/edit_cache.dir
+/workspace/junwei/cmake_example/sum/src/main/CMakeFiles/rebuild_cache.dir
+/workspace/junwei/cmake_example/sum/src/main/CMakeFiles/hello.dir
+/workspace/junwei/cmake_example/sum/src/main/CMakeFiles/edit_cache.dir
+/workspace/junwei/cmake_example/sum/src/sum/CMakeFiles/rebuild_cache.dir
+/workspace/junwei/cmake_example/sum/src/sum/CMakeFiles/sum.dir
+/workspace/junwei/cmake_example/sum/src/sum/CMakeFiles/edit_cache.dir

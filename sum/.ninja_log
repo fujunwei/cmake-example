@@ -1,0 +1,5 @@
+# ninja log v5
+0	78	1537112914	src/main/CMakeFiles/hello.dir/main.o	531885a998c1d4a4
+0	80	1537112914	src/sum/CMakeFiles/sum.dir/sum.o	feba03fcb7076709
+80	87	1537112914	lib/libsum.a	53780cbbd773a920
+87	100	1537112914	bin/hello	c79864e147e89c97
